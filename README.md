@@ -23,7 +23,7 @@ Additionally, we have a google doc to track our conversation and progress made t
 
 The project's repository contains multiple branches, as seen in the attached picture. Each branch component is active to enable respective team members to commit their work and submit the repository link to canvas. 
 
-![Branches](img/Screen Shot 2021-04-09 at 10.00.29 PM.png)
+![Branches](https://github.com/a56k/ML---Final-Project---Pollution-Future-Impact-Analysis-/blob/main/img/Screen%20Shot%202021-04-09%20at%2010.00.29%20PM.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Complications
