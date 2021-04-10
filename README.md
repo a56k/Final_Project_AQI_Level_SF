@@ -23,8 +23,7 @@ Additionally, we have a google doc to track our conversation and progress made t
 
 The project's repository contains multiple branches, as seen in the attached picture. Each branch component is active to enable respective team members to commit their work and submit the repository link to canvas. 
 
-
-
+![Branches](img/Screen Shot 2021-04-09 at 10.00.29 PM.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Complications
