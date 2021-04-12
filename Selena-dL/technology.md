@@ -1,12 +1,12 @@
 # Technologies Used
 ## Data Cleaning and Analysis
-Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+We will us Pandas to clean the data. We will perform an exploratory analysis with Jupyter Notebook and VS Code. Further analysis (i.e. merging/joining files) will be completed using Python and postgresQL (pgAdmin). Interactive plots of the cleaned/merged data will be made using Javascript.
 
 ## Database Storage
-Mongo is the database we intend to use, and we will integrate Flask to display the data.
+pgAdmin is the database we intend to use alongside AWS for storage. Further instruments will be added as necessary.
 
 ## Machine Learning
 SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is ___. Extra ML verbiage here.
 
 ## Dashboard
-In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
+We are currently displaying our work on our GitHub page. We will later integrate Google Slides and other platforms for presentation.
