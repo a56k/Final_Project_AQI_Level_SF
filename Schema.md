@@ -1,8 +1,8 @@
 # Schema
 Below is a sample of the schema for our data. Our primary keys and foreign keys are still being established.
 
-Creating tables for SF 2018 Carbon Monoxide
-CREATE TABLE SF_2018_CO
+--Creating tables for SF 2018 Carbon Monoxide
+- CREATE TABLE SF_2018_CO (
 - DATE_Year DATE NOT NULL,
 - AQS_Source VARCHAR(365) NOT NULL,
 - Site_ID INT NOT NULL,
@@ -23,6 +23,5 @@ CREATE TABLE SF_2018_CO
 - COUNTY VARCHAR (365) NOT NULL,
 - SITE_LATITUDE FLOAT NOT NULL,
 - SITE_LONGITUDE FLOAT NOT NULL,
-);
-
+- );
 
