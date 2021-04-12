@@ -1,5 +1,6 @@
 # Schema
-Below is a sample of the schema for our data. Our primary keys and foreign keys are still being established.
+Below is a sample of the schema for our data. This CSV's we used were integrated through AWS and Postgress.
+Our primary keys and foreign keys are still being established.
 
 --Creating tables for SF 2018 Carbon Monoxide
 - CREATE TABLE SF_2018_CO (
