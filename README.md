@@ -26,6 +26,11 @@ The project's repository contains multiple branches, as seen in the attached pic
 ![Branches](https://github.com/a56k/ML---Final-Project---Pollution-Future-Impact-Analysis-/blob/main/img/Screen%20Shot%202021-04-09%20at%2010.00.29%20PM.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Machine Learning Model
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Complications
 
 
