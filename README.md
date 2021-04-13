@@ -26,6 +26,22 @@ The project's repository contains multiple branches, as seen in the attached pic
 ![Branches](https://github.com/a56k/ML---Final-Project---Pollution-Future-Impact-Analysis-/blob/main/img/Screen%20Shot%202021-04-09%20at%2010.00.29%20PM.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Machine Learning Model
+
+We are predicting Air Quality Index (AQI) as Safe or Unsafe. (AQI > = 150 is Unsafe)
+
+
+
+For this classification problem we will compare **Ensemble* and **Resampling** techniques using Python sklearn library.  We will create a logistic regression, Random Forest, and Ada Boost classifier models, chose the best performer, and provide recommendations to future model improvements. In all escenarios, we will be fitting the training data, and making a prediction.
+
+columns = CO, NO2, OZONE, pm10, pm2.5, SO2
+
+target = AQI  this variable will be converted to binary = "Safe", "Unsafe"
+
+Classification metrics like accuracy score, precision and sensitivity are analyzed for each target class to asses model performance.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Complications
 
 
