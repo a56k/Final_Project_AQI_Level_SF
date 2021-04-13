@@ -1,0 +1,358 @@
+2015_co
+-
+date DATE PK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2016_co
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2017_co
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2015_no2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2016_no2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2017_no2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2015_oz
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2016_oz
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2017-oz
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2015_pm2-5
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2016_pm2-5
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2017_pm2-5
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2015_pm10
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2016_pm10
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2017_pm10
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2015_so2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2016_so2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2017_so2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2018_co
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2019_co
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2020_co
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2018_no2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2019_no2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2020_no2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2018_oz
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2019_oz
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2020_oz
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2018_pm2-5
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2019_pm2-5
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2020_pm2-5
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2018_pm10
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2019_pm10
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2020_pm10
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2018_so2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2019_so2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
+
+
+2020_so2
+-
+date DATE PK FK
+daily_max_concentration INT PK
+units VAR
+daily_AQI INT PK
+site_name VAR
+county VAR
