@@ -26,4 +26,3 @@ Below is a sample of the schema for our data. Our primary keys and foreign keys 
 - SITE_LONGITUDE FLOAT NOT NULL,
 - );
 
-![Sample Postgres](https://github.com/a56k/ML---Final-Project---Pollution-Future-Impact-Analysis-/blob/AmirO/AmirO/Resources/Sample%20Postgress.png)
