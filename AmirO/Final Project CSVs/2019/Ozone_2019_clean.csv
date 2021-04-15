@@ -1,4 +1,4 @@
-Date,Daily Max 8-hour Ozone Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
+Date,Daily_Max_8-hour_Ozone_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
 01/01/2019,0.032,ppm,30,Oakland West,Alameda
 01/02/2019,0.017,ppm,16,Oakland West,Alameda
 01/03/2019,0.02,ppm,19,Oakland West,Alameda

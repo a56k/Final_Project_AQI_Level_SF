@@ -1,4 +1,4 @@
-Date,Daily Max 1-hour NO2 Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
+Date,Daily_Max_1-hour_NO2_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
 01/01/2020,28.0,ppb,26,Oakland West,Alameda
 01/02/2020,34.2,ppb,32,Oakland West,Alameda
 01/07/2020,33.8,ppb,31,Oakland West,Alameda

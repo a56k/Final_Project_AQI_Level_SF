@@ -1,4 +1,4 @@
-Date,Daily Mean PM10 Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
+Date,Daily_Mean_PM10_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
 01/09/2019,13,ug/m3 SC,12,San Francisco,San Francisco
 01/21/2019,13,ug/m3 SC,12,San Francisco,San Francisco
 02/02/2019,9,ug/m3 SC,8,San Francisco,San Francisco

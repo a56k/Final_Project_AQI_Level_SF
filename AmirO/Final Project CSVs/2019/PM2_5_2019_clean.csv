@@ -1,4 +1,4 @@
-Date,Daily Mean PM2.5 Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
+Date,Daily_Mean_PM2.5_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
 01/01/2019,6.2,ug/m3 LC,26,Oakland West,Alameda
 01/02/2019,9.7,ug/m3 LC,40,Oakland West,Alameda
 01/03/2019,19.6,ug/m3 LC,67,Oakland West,Alameda

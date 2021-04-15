@@ -1,4 +1,4 @@
-Date,Daily Max 8-hour CO Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
+Date,Daily_Max_8-hour_CO_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
 01/01/2019,1.0,ppm,11,Oakland West,Alameda
 01/02/2019,1.3,ppm,15,Oakland West,Alameda
 01/03/2019,1.2,ppm,14,Oakland West,Alameda
