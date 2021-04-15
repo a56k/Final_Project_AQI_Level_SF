@@ -1,0 +1,726 @@
+Date,Daily_Max_8-hour_CO_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name,COUNTY
+01/01/2018,1.3,ppm,15,Oakland West,Alameda
+01/02/2018,1.9,ppm,22,Oakland West,Alameda
+01/03/2018,1.3,ppm,15,Oakland West,Alameda
+01/04/2018,0.9,ppm,10,Oakland West,Alameda
+01/05/2018,0.7,ppm,8,Oakland West,Alameda
+01/06/2018,1.2,ppm,14,Oakland West,Alameda
+01/07/2018,1.5,ppm,17,Oakland West,Alameda
+01/08/2018,0.8,ppm,9,Oakland West,Alameda
+01/09/2018,0.6,ppm,7,Oakland West,Alameda
+01/10/2018,0.5,ppm,6,Oakland West,Alameda
+01/12/2018,1.1,ppm,13,Oakland West,Alameda
+01/13/2018,1.3,ppm,15,Oakland West,Alameda
+01/14/2018,0.7,ppm,8,Oakland West,Alameda
+01/15/2018,0.6,ppm,7,Oakland West,Alameda
+01/18/2018,0.7,ppm,8,Oakland West,Alameda
+01/19/2018,1.0,ppm,11,Oakland West,Alameda
+01/20/2018,0.7,ppm,8,Oakland West,Alameda
+01/21/2018,1.1,ppm,13,Oakland West,Alameda
+01/22/2018,0.4,ppm,5,Oakland West,Alameda
+01/23/2018,1.0,ppm,11,Oakland West,Alameda
+01/24/2018,1.2,ppm,14,Oakland West,Alameda
+01/25/2018,0.5,ppm,6,Oakland West,Alameda
+01/26/2018,0.8,ppm,9,Oakland West,Alameda
+01/27/2018,0.9,ppm,10,Oakland West,Alameda
+01/28/2018,0.8,ppm,9,Oakland West,Alameda
+01/29/2018,1.0,ppm,11,Oakland West,Alameda
+01/30/2018,1.4,ppm,16,Oakland West,Alameda
+01/31/2018,1.3,ppm,15,Oakland West,Alameda
+02/01/2018,1.3,ppm,15,Oakland West,Alameda
+02/02/2018,1.9,ppm,22,Oakland West,Alameda
+02/03/2018,1.3,ppm,15,Oakland West,Alameda
+02/04/2018,1.5,ppm,17,Oakland West,Alameda
+02/05/2018,1.5,ppm,17,Oakland West,Alameda
+02/06/2018,1.3,ppm,15,Oakland West,Alameda
+02/07/2018,1.5,ppm,17,Oakland West,Alameda
+02/08/2018,1.5,ppm,17,Oakland West,Alameda
+02/09/2018,1.1,ppm,13,Oakland West,Alameda
+02/10/2018,0.9,ppm,10,Oakland West,Alameda
+02/11/2018,0.7,ppm,8,Oakland West,Alameda
+02/12/2018,0.5,ppm,6,Oakland West,Alameda
+02/13/2018,0.8,ppm,9,Oakland West,Alameda
+02/14/2018,1.5,ppm,17,Oakland West,Alameda
+02/15/2018,0.9,ppm,10,Oakland West,Alameda
+02/16/2018,1.5,ppm,17,Oakland West,Alameda
+02/17/2018,1.2,ppm,14,Oakland West,Alameda
+02/18/2018,0.4,ppm,5,Oakland West,Alameda
+02/19/2018,0.3,ppm,3,Oakland West,Alameda
+02/20/2018,0.7,ppm,8,Oakland West,Alameda
+02/21/2018,0.5,ppm,6,Oakland West,Alameda
+02/22/2018,0.5,ppm,6,Oakland West,Alameda
+02/23/2018,0.7,ppm,8,Oakland West,Alameda
+02/24/2018,1.1,ppm,13,Oakland West,Alameda
+02/25/2018,0.5,ppm,6,Oakland West,Alameda
+02/26/2018,0.4,ppm,5,Oakland West,Alameda
+02/27/2018,0.6,ppm,7,Oakland West,Alameda
+02/28/2018,0.7,ppm,8,Oakland West,Alameda
+03/02/2018,0.5,ppm,6,Oakland West,Alameda
+03/03/2018,0.5,ppm,6,Oakland West,Alameda
+03/04/2018,0.5,ppm,6,Oakland West,Alameda
+03/05/2018,0.7,ppm,8,Oakland West,Alameda
+03/06/2018,0.8,ppm,9,Oakland West,Alameda
+03/07/2018,1.0,ppm,11,Oakland West,Alameda
+03/08/2018,0.6,ppm,7,Oakland West,Alameda
+03/09/2018,0.6,ppm,7,Oakland West,Alameda
+03/10/2018,0.6,ppm,7,Oakland West,Alameda
+03/11/2018,0.7,ppm,8,Oakland West,Alameda
+03/13/2018,0.4,ppm,5,Oakland West,Alameda
+03/14/2018,0.4,ppm,5,Oakland West,Alameda
+03/15/2018,0.5,ppm,6,Oakland West,Alameda
+03/16/2018,0.4,ppm,5,Oakland West,Alameda
+03/17/2018,0.7,ppm,8,Oakland West,Alameda
+03/18/2018,0.9,ppm,10,Oakland West,Alameda
+03/19/2018,1.1,ppm,13,Oakland West,Alameda
+03/20/2018,0.6,ppm,7,Oakland West,Alameda
+03/21/2018,0.5,ppm,6,Oakland West,Alameda
+03/22/2018,0.4,ppm,5,Oakland West,Alameda
+03/23/2018,0.5,ppm,6,Oakland West,Alameda
+03/24/2018,0.4,ppm,5,Oakland West,Alameda
+03/25/2018,0.5,ppm,6,Oakland West,Alameda
+03/26/2018,0.4,ppm,5,Oakland West,Alameda
+03/27/2018,0.6,ppm,7,Oakland West,Alameda
+03/28/2018,1.0,ppm,11,Oakland West,Alameda
+03/29/2018,0.9,ppm,10,Oakland West,Alameda
+03/30/2018,0.8,ppm,9,Oakland West,Alameda
+03/31/2018,0.6,ppm,7,Oakland West,Alameda
+04/01/2018,0.5,ppm,6,Oakland West,Alameda
+04/02/2018,0.5,ppm,6,Oakland West,Alameda
+04/03/2018,0.6,ppm,7,Oakland West,Alameda
+04/04/2018,0.4,ppm,5,Oakland West,Alameda
+04/05/2018,0.4,ppm,5,Oakland West,Alameda
+04/06/2018,0.4,ppm,5,Oakland West,Alameda
+04/07/2018,0.4,ppm,5,Oakland West,Alameda
+04/08/2018,0.5,ppm,6,Oakland West,Alameda
+04/09/2018,0.8,ppm,9,Oakland West,Alameda
+04/10/2018,0.5,ppm,6,Oakland West,Alameda
+04/11/2018,0.5,ppm,6,Oakland West,Alameda
+04/12/2018,0.4,ppm,5,Oakland West,Alameda
+04/13/2018,0.5,ppm,6,Oakland West,Alameda
+04/14/2018,0.7,ppm,8,Oakland West,Alameda
+04/15/2018,0.5,ppm,6,Oakland West,Alameda
+04/16/2018,0.5,ppm,6,Oakland West,Alameda
+04/17/2018,0.6,ppm,7,Oakland West,Alameda
+04/18/2018,0.6,ppm,7,Oakland West,Alameda
+04/19/2018,0.7,ppm,8,Oakland West,Alameda
+04/20/2018,0.7,ppm,8,Oakland West,Alameda
+04/21/2018,0.5,ppm,6,Oakland West,Alameda
+04/22/2018,0.5,ppm,6,Oakland West,Alameda
+04/23/2018,0.6,ppm,7,Oakland West,Alameda
+04/24/2018,0.5,ppm,6,Oakland West,Alameda
+04/25/2018,0.4,ppm,5,Oakland West,Alameda
+04/26/2018,0.4,ppm,5,Oakland West,Alameda
+04/27/2018,0.5,ppm,6,Oakland West,Alameda
+04/28/2018,0.4,ppm,5,Oakland West,Alameda
+04/29/2018,0.4,ppm,5,Oakland West,Alameda
+04/30/2018,0.6,ppm,7,Oakland West,Alameda
+05/01/2018,0.5,ppm,6,Oakland West,Alameda
+05/02/2018,0.5,ppm,6,Oakland West,Alameda
+05/03/2018,0.5,ppm,6,Oakland West,Alameda
+05/04/2018,0.6,ppm,7,Oakland West,Alameda
+05/05/2018,0.5,ppm,6,Oakland West,Alameda
+05/06/2018,0.5,ppm,6,Oakland West,Alameda
+05/07/2018,0.6,ppm,7,Oakland West,Alameda
+05/08/2018,0.3,ppm,3,Oakland West,Alameda
+05/09/2018,0.4,ppm,5,Oakland West,Alameda
+05/10/2018,0.4,ppm,5,Oakland West,Alameda
+05/11/2018,0.5,ppm,6,Oakland West,Alameda
+05/12/2018,0.5,ppm,6,Oakland West,Alameda
+05/13/2018,0.3,ppm,3,Oakland West,Alameda
+05/14/2018,0.3,ppm,3,Oakland West,Alameda
+05/15/2018,0.3,ppm,3,Oakland West,Alameda
+05/16/2018,0.3,ppm,3,Oakland West,Alameda
+05/17/2018,0.4,ppm,5,Oakland West,Alameda
+05/18/2018,0.3,ppm,3,Oakland West,Alameda
+05/19/2018,0.3,ppm,3,Oakland West,Alameda
+05/20/2018,0.3,ppm,3,Oakland West,Alameda
+05/21/2018,0.3,ppm,3,Oakland West,Alameda
+05/22/2018,0.4,ppm,5,Oakland West,Alameda
+05/23/2018,0.4,ppm,5,Oakland West,Alameda
+05/24/2018,0.3,ppm,3,Oakland West,Alameda
+05/25/2018,0.4,ppm,5,Oakland West,Alameda
+05/26/2018,0.4,ppm,5,Oakland West,Alameda
+05/27/2018,0.4,ppm,5,Oakland West,Alameda
+05/28/2018,0.5,ppm,6,Oakland West,Alameda
+05/29/2018,0.5,ppm,6,Oakland West,Alameda
+05/30/2018,0.3,ppm,3,Oakland West,Alameda
+05/31/2018,0.4,ppm,5,Oakland West,Alameda
+06/01/2018,0.4,ppm,5,Oakland West,Alameda
+06/02/2018,0.6,ppm,7,Oakland West,Alameda
+06/03/2018,0.4,ppm,5,Oakland West,Alameda
+06/04/2018,0.4,ppm,5,Oakland West,Alameda
+06/05/2018,0.4,ppm,5,Oakland West,Alameda
+06/06/2018,0.4,ppm,5,Oakland West,Alameda
+06/07/2018,0.4,ppm,5,Oakland West,Alameda
+06/08/2018,0.4,ppm,5,Oakland West,Alameda
+06/09/2018,0.4,ppm,5,Oakland West,Alameda
+06/10/2018,0.4,ppm,5,Oakland West,Alameda
+06/11/2018,0.4,ppm,5,Oakland West,Alameda
+06/12/2018,0.6,ppm,7,Oakland West,Alameda
+06/13/2018,0.5,ppm,6,Oakland West,Alameda
+06/14/2018,0.4,ppm,5,Oakland West,Alameda
+06/15/2018,0.4,ppm,5,Oakland West,Alameda
+06/16/2018,0.4,ppm,5,Oakland West,Alameda
+06/17/2018,0.4,ppm,5,Oakland West,Alameda
+06/18/2018,0.4,ppm,5,Oakland West,Alameda
+06/19/2018,0.4,ppm,5,Oakland West,Alameda
+06/20/2018,0.4,ppm,5,Oakland West,Alameda
+06/21/2018,0.4,ppm,5,Oakland West,Alameda
+06/22/2018,0.5,ppm,6,Oakland West,Alameda
+06/23/2018,0.6,ppm,7,Oakland West,Alameda
+06/24/2018,0.5,ppm,6,Oakland West,Alameda
+06/25/2018,0.4,ppm,5,Oakland West,Alameda
+06/26/2018,0.3,ppm,3,Oakland West,Alameda
+06/27/2018,0.3,ppm,3,Oakland West,Alameda
+06/28/2018,0.3,ppm,3,Oakland West,Alameda
+06/29/2018,0.4,ppm,5,Oakland West,Alameda
+06/30/2018,0.5,ppm,6,Oakland West,Alameda
+07/01/2018,0.4,ppm,5,Oakland West,Alameda
+07/02/2018,0.3,ppm,3,Oakland West,Alameda
+07/03/2018,0.3,ppm,3,Oakland West,Alameda
+07/04/2018,0.3,ppm,3,Oakland West,Alameda
+07/05/2018,0.3,ppm,3,Oakland West,Alameda
+07/06/2018,0.4,ppm,5,Oakland West,Alameda
+07/07/2018,0.3,ppm,3,Oakland West,Alameda
+07/08/2018,0.2,ppm,2,Oakland West,Alameda
+07/09/2018,0.2,ppm,2,Oakland West,Alameda
+07/10/2018,0.2,ppm,2,Oakland West,Alameda
+07/11/2018,0.2,ppm,2,Oakland West,Alameda
+07/12/2018,0.2,ppm,2,Oakland West,Alameda
+07/13/2018,0.2,ppm,2,Oakland West,Alameda
+07/14/2018,0.2,ppm,2,Oakland West,Alameda
+07/15/2018,0.1,ppm,1,Oakland West,Alameda
+07/16/2018,0.2,ppm,2,Oakland West,Alameda
+07/17/2018,0.2,ppm,2,Oakland West,Alameda
+07/18/2018,0.2,ppm,2,Oakland West,Alameda
+07/19/2018,0.2,ppm,2,Oakland West,Alameda
+07/20/2018,0.3,ppm,3,Oakland West,Alameda
+07/21/2018,0.2,ppm,2,Oakland West,Alameda
+07/22/2018,0.2,ppm,2,Oakland West,Alameda
+07/23/2018,0.3,ppm,3,Oakland West,Alameda
+07/24/2018,0.3,ppm,3,Oakland West,Alameda
+07/25/2018,0.3,ppm,3,Oakland West,Alameda
+07/26/2018,0.2,ppm,2,Oakland West,Alameda
+07/27/2018,0.2,ppm,2,Oakland West,Alameda
+07/28/2018,0.2,ppm,2,Oakland West,Alameda
+07/29/2018,0.2,ppm,2,Oakland West,Alameda
+07/30/2018,0.3,ppm,3,Oakland West,Alameda
+07/31/2018,0.3,ppm,3,Oakland West,Alameda
+08/01/2018,0.3,ppm,3,Oakland West,Alameda
+08/02/2018,0.3,ppm,3,Oakland West,Alameda
+08/03/2018,0.5,ppm,6,Oakland West,Alameda
+08/04/2018,0.6,ppm,7,Oakland West,Alameda
+08/05/2018,0.3,ppm,3,Oakland West,Alameda
+08/06/2018,0.5,ppm,6,Oakland West,Alameda
+08/07/2018,0.4,ppm,5,Oakland West,Alameda
+08/08/2018,0.4,ppm,5,Oakland West,Alameda
+08/09/2018,0.4,ppm,5,Oakland West,Alameda
+08/10/2018,0.4,ppm,5,Oakland West,Alameda
+08/11/2018,0.4,ppm,5,Oakland West,Alameda
+08/12/2018,0.3,ppm,3,Oakland West,Alameda
+08/13/2018,0.3,ppm,3,Oakland West,Alameda
+08/14/2018,0.3,ppm,3,Oakland West,Alameda
+08/15/2018,0.4,ppm,5,Oakland West,Alameda
+08/16/2018,0.5,ppm,6,Oakland West,Alameda
+08/17/2018,0.5,ppm,6,Oakland West,Alameda
+08/18/2018,0.5,ppm,6,Oakland West,Alameda
+08/19/2018,0.5,ppm,6,Oakland West,Alameda
+08/20/2018,0.5,ppm,6,Oakland West,Alameda
+08/21/2018,0.6,ppm,7,Oakland West,Alameda
+08/22/2018,0.6,ppm,7,Oakland West,Alameda
+08/23/2018,0.8,ppm,9,Oakland West,Alameda
+08/24/2018,0.7,ppm,8,Oakland West,Alameda
+08/25/2018,0.5,ppm,6,Oakland West,Alameda
+08/26/2018,0.4,ppm,5,Oakland West,Alameda
+08/27/2018,0.4,ppm,5,Oakland West,Alameda
+08/28/2018,0.4,ppm,5,Oakland West,Alameda
+08/29/2018,0.6,ppm,7,Oakland West,Alameda
+08/30/2018,0.5,ppm,6,Oakland West,Alameda
+08/31/2018,0.4,ppm,5,Oakland West,Alameda
+09/01/2018,0.4,ppm,5,Oakland West,Alameda
+09/02/2018,0.4,ppm,5,Oakland West,Alameda
+09/03/2018,0.4,ppm,5,Oakland West,Alameda
+09/04/2018,0.5,ppm,6,Oakland West,Alameda
+09/05/2018,0.5,ppm,6,Oakland West,Alameda
+09/06/2018,0.5,ppm,6,Oakland West,Alameda
+09/07/2018,0.5,ppm,6,Oakland West,Alameda
+09/08/2018,0.3,ppm,3,Oakland West,Alameda
+09/09/2018,0.4,ppm,5,Oakland West,Alameda
+09/10/2018,0.4,ppm,5,Oakland West,Alameda
+09/11/2018,0.4,ppm,5,Oakland West,Alameda
+09/12/2018,0.4,ppm,5,Oakland West,Alameda
+09/13/2018,0.3,ppm,3,Oakland West,Alameda
+09/14/2018,0.4,ppm,5,Oakland West,Alameda
+09/15/2018,0.4,ppm,5,Oakland West,Alameda
+09/16/2018,0.4,ppm,5,Oakland West,Alameda
+09/17/2018,0.3,ppm,3,Oakland West,Alameda
+09/18/2018,0.4,ppm,5,Oakland West,Alameda
+09/19/2018,0.5,ppm,6,Oakland West,Alameda
+09/20/2018,1.1,ppm,13,Oakland West,Alameda
+09/21/2018,1.1,ppm,13,Oakland West,Alameda
+09/22/2018,0.5,ppm,6,Oakland West,Alameda
+09/23/2018,0.4,ppm,5,Oakland West,Alameda
+09/24/2018,0.8,ppm,9,Oakland West,Alameda
+09/25/2018,0.6,ppm,7,Oakland West,Alameda
+09/26/2018,0.6,ppm,7,Oakland West,Alameda
+09/27/2018,0.5,ppm,6,Oakland West,Alameda
+09/28/2018,0.4,ppm,5,Oakland West,Alameda
+09/29/2018,0.4,ppm,5,Oakland West,Alameda
+09/30/2018,0.4,ppm,5,Oakland West,Alameda
+10/01/2018,0.6,ppm,7,Oakland West,Alameda
+10/02/2018,0.5,ppm,6,Oakland West,Alameda
+10/03/2018,0.5,ppm,6,Oakland West,Alameda
+10/04/2018,0.4,ppm,5,Oakland West,Alameda
+10/05/2018,0.5,ppm,6,Oakland West,Alameda
+10/06/2018,0.5,ppm,6,Oakland West,Alameda
+10/07/2018,0.4,ppm,5,Oakland West,Alameda
+10/08/2018,0.4,ppm,5,Oakland West,Alameda
+10/09/2018,0.4,ppm,5,Oakland West,Alameda
+10/10/2018,0.4,ppm,5,Oakland West,Alameda
+10/11/2018,0.4,ppm,5,Oakland West,Alameda
+10/12/2018,0.8,ppm,9,Oakland West,Alameda
+10/13/2018,1.1,ppm,13,Oakland West,Alameda
+10/14/2018,0.5,ppm,6,Oakland West,Alameda
+10/15/2018,0.6,ppm,7,Oakland West,Alameda
+10/16/2018,1.2,ppm,14,Oakland West,Alameda
+10/17/2018,0.6,ppm,7,Oakland West,Alameda
+10/18/2018,0.6,ppm,7,Oakland West,Alameda
+10/19/2018,0.9,ppm,10,Oakland West,Alameda
+10/20/2018,0.5,ppm,6,Oakland West,Alameda
+10/21/2018,0.4,ppm,5,Oakland West,Alameda
+10/22/2018,0.4,ppm,5,Oakland West,Alameda
+10/23/2018,0.7,ppm,8,Oakland West,Alameda
+10/24/2018,0.7,ppm,8,Oakland West,Alameda
+10/25/2018,0.6,ppm,7,Oakland West,Alameda
+10/26/2018,0.8,ppm,9,Oakland West,Alameda
+10/27/2018,1.0,ppm,11,Oakland West,Alameda
+10/28/2018,0.5,ppm,6,Oakland West,Alameda
+10/29/2018,0.6,ppm,7,Oakland West,Alameda
+10/30/2018,1.0,ppm,11,Oakland West,Alameda
+10/31/2018,1.4,ppm,16,Oakland West,Alameda
+11/01/2018,1.6,ppm,18,Oakland West,Alameda
+11/02/2018,0.7,ppm,8,Oakland West,Alameda
+11/03/2018,0.9,ppm,10,Oakland West,Alameda
+11/04/2018,0.7,ppm,8,Oakland West,Alameda
+11/05/2018,0.9,ppm,10,Oakland West,Alameda
+11/06/2018,1.2,ppm,14,Oakland West,Alameda
+11/07/2018,1.2,ppm,14,Oakland West,Alameda
+11/08/2018,1.2,ppm,14,Oakland West,Alameda
+11/09/2018,1.5,ppm,17,Oakland West,Alameda
+11/10/2018,2.4,ppm,27,Oakland West,Alameda
+11/11/2018,3.1,ppm,35,Oakland West,Alameda
+11/12/2018,2.2,ppm,25,Oakland West,Alameda
+11/13/2018,2.4,ppm,27,Oakland West,Alameda
+11/14/2018,2.0,ppm,23,Oakland West,Alameda
+11/15/2018,2.6,ppm,30,Oakland West,Alameda
+11/16/2018,3.0,ppm,34,Oakland West,Alameda
+11/17/2018,2.8,ppm,32,Oakland West,Alameda
+11/18/2018,1.7,ppm,19,Oakland West,Alameda
+11/19/2018,2.5,ppm,28,Oakland West,Alameda
+11/20/2018,2.9,ppm,33,Oakland West,Alameda
+11/21/2018,1.4,ppm,16,Oakland West,Alameda
+11/22/2018,0.5,ppm,6,Oakland West,Alameda
+11/23/2018,0.4,ppm,5,Oakland West,Alameda
+11/24/2018,1.1,ppm,13,Oakland West,Alameda
+11/25/2018,1.4,ppm,16,Oakland West,Alameda
+11/26/2018,1.3,ppm,15,Oakland West,Alameda
+11/27/2018,1.1,ppm,13,Oakland West,Alameda
+11/28/2018,0.6,ppm,7,Oakland West,Alameda
+11/29/2018,0.4,ppm,5,Oakland West,Alameda
+11/30/2018,0.6,ppm,7,Oakland West,Alameda
+12/01/2018,0.7,ppm,8,Oakland West,Alameda
+12/02/2018,0.6,ppm,7,Oakland West,Alameda
+12/03/2018,0.5,ppm,6,Oakland West,Alameda
+12/04/2018,0.6,ppm,7,Oakland West,Alameda
+12/05/2018,0.5,ppm,6,Oakland West,Alameda
+12/06/2018,0.9,ppm,10,Oakland West,Alameda
+12/07/2018,1.3,ppm,15,Oakland West,Alameda
+12/08/2018,1.4,ppm,16,Oakland West,Alameda
+12/09/2018,2.1,ppm,24,Oakland West,Alameda
+12/10/2018,1.3,ppm,15,Oakland West,Alameda
+12/11/2018,1.9,ppm,22,Oakland West,Alameda
+12/12/2018,1.3,ppm,15,Oakland West,Alameda
+12/13/2018,1.3,ppm,15,Oakland West,Alameda
+12/14/2018,1.7,ppm,19,Oakland West,Alameda
+12/15/2018,0.8,ppm,9,Oakland West,Alameda
+12/16/2018,0.7,ppm,8,Oakland West,Alameda
+12/17/2018,1.0,ppm,11,Oakland West,Alameda
+12/18/2018,1.3,ppm,15,Oakland West,Alameda
+12/19/2018,1.4,ppm,16,Oakland West,Alameda
+12/20/2018,1.7,ppm,19,Oakland West,Alameda
+12/21/2018,1.0,ppm,11,Oakland West,Alameda
+12/22/2018,0.8,ppm,9,Oakland West,Alameda
+12/23/2018,1.1,ppm,13,Oakland West,Alameda
+12/24/2018,0.9,ppm,10,Oakland West,Alameda
+12/25/2018,0.6,ppm,7,Oakland West,Alameda
+12/26/2018,0.8,ppm,9,Oakland West,Alameda
+12/27/2018,1.0,ppm,11,Oakland West,Alameda
+12/28/2018,1.1,ppm,13,Oakland West,Alameda
+12/29/2018,1.2,ppm,14,Oakland West,Alameda
+12/30/2018,1.2,ppm,14,Oakland West,Alameda
+12/31/2018,0.6,ppm,7,Oakland West,Alameda
+01/01/2018,0.7,ppm,8,San Francisco,San Francisco
+01/02/2018,0.8,ppm,9,San Francisco,San Francisco
+01/03/2018,0.9,ppm,10,San Francisco,San Francisco
+01/04/2018,0.8,ppm,9,San Francisco,San Francisco
+01/05/2018,0.6,ppm,7,San Francisco,San Francisco
+01/06/2018,0.7,ppm,8,San Francisco,San Francisco
+01/07/2018,0.7,ppm,8,San Francisco,San Francisco
+01/08/2018,0.7,ppm,8,San Francisco,San Francisco
+01/09/2018,0.6,ppm,7,San Francisco,San Francisco
+01/10/2018,0.4,ppm,5,San Francisco,San Francisco
+01/11/2018,0.5,ppm,6,San Francisco,San Francisco
+01/12/2018,0.7,ppm,8,San Francisco,San Francisco
+01/13/2018,0.7,ppm,8,San Francisco,San Francisco
+01/14/2018,0.4,ppm,5,San Francisco,San Francisco
+01/15/2018,0.5,ppm,6,San Francisco,San Francisco
+01/16/2018,0.7,ppm,8,San Francisco,San Francisco
+01/17/2018,0.5,ppm,6,San Francisco,San Francisco
+01/18/2018,0.5,ppm,6,San Francisco,San Francisco
+01/19/2018,0.4,ppm,5,San Francisco,San Francisco
+01/20/2018,0.4,ppm,5,San Francisco,San Francisco
+01/21/2018,0.6,ppm,7,San Francisco,San Francisco
+01/22/2018,0.4,ppm,5,San Francisco,San Francisco
+01/23/2018,0.6,ppm,7,San Francisco,San Francisco
+01/24/2018,0.6,ppm,7,San Francisco,San Francisco
+01/25/2018,0.5,ppm,6,San Francisco,San Francisco
+01/26/2018,0.6,ppm,7,San Francisco,San Francisco
+01/27/2018,0.5,ppm,6,San Francisco,San Francisco
+01/28/2018,0.5,ppm,6,San Francisco,San Francisco
+01/29/2018,0.6,ppm,7,San Francisco,San Francisco
+01/30/2018,0.7,ppm,8,San Francisco,San Francisco
+01/31/2018,0.8,ppm,9,San Francisco,San Francisco
+02/01/2018,1.0,ppm,11,San Francisco,San Francisco
+02/02/2018,1.1,ppm,13,San Francisco,San Francisco
+02/03/2018,1.0,ppm,11,San Francisco,San Francisco
+02/04/2018,1.1,ppm,13,San Francisco,San Francisco
+02/05/2018,1.0,ppm,11,San Francisco,San Francisco
+02/06/2018,0.8,ppm,9,San Francisco,San Francisco
+02/07/2018,0.8,ppm,9,San Francisco,San Francisco
+02/08/2018,0.8,ppm,9,San Francisco,San Francisco
+02/09/2018,0.9,ppm,10,San Francisco,San Francisco
+02/10/2018,0.5,ppm,6,San Francisco,San Francisco
+02/11/2018,0.5,ppm,6,San Francisco,San Francisco
+02/12/2018,0.5,ppm,6,San Francisco,San Francisco
+02/13/2018,0.7,ppm,8,San Francisco,San Francisco
+02/14/2018,0.8,ppm,9,San Francisco,San Francisco
+02/15/2018,0.6,ppm,7,San Francisco,San Francisco
+02/16/2018,0.7,ppm,8,San Francisco,San Francisco
+02/17/2018,0.8,ppm,9,San Francisco,San Francisco
+02/18/2018,0.4,ppm,5,San Francisco,San Francisco
+02/19/2018,0.4,ppm,5,San Francisco,San Francisco
+02/20/2018,0.5,ppm,6,San Francisco,San Francisco
+02/21/2018,0.5,ppm,6,San Francisco,San Francisco
+02/22/2018,0.5,ppm,6,San Francisco,San Francisco
+02/23/2018,0.4,ppm,5,San Francisco,San Francisco
+02/24/2018,0.4,ppm,5,San Francisco,San Francisco
+02/25/2018,0.3,ppm,3,San Francisco,San Francisco
+02/26/2018,0.3,ppm,3,San Francisco,San Francisco
+02/27/2018,0.3,ppm,3,San Francisco,San Francisco
+02/28/2018,0.3,ppm,3,San Francisco,San Francisco
+03/01/2018,0.2,ppm,2,San Francisco,San Francisco
+03/02/2018,0.3,ppm,3,San Francisco,San Francisco
+03/03/2018,0.3,ppm,3,San Francisco,San Francisco
+03/04/2018,0.3,ppm,3,San Francisco,San Francisco
+03/05/2018,0.3,ppm,3,San Francisco,San Francisco
+03/06/2018,0.5,ppm,6,San Francisco,San Francisco
+03/07/2018,0.5,ppm,6,San Francisco,San Francisco
+03/08/2018,0.4,ppm,5,San Francisco,San Francisco
+03/09/2018,0.4,ppm,5,San Francisco,San Francisco
+03/10/2018,0.4,ppm,5,San Francisco,San Francisco
+03/11/2018,0.4,ppm,5,San Francisco,San Francisco
+03/12/2018,0.5,ppm,6,San Francisco,San Francisco
+03/13/2018,0.3,ppm,3,San Francisco,San Francisco
+03/14/2018,0.4,ppm,5,San Francisco,San Francisco
+03/15/2018,0.5,ppm,6,San Francisco,San Francisco
+03/16/2018,0.3,ppm,3,San Francisco,San Francisco
+03/17/2018,0.3,ppm,3,San Francisco,San Francisco
+03/18/2018,0.4,ppm,5,San Francisco,San Francisco
+03/19/2018,0.4,ppm,5,San Francisco,San Francisco
+03/20/2018,0.5,ppm,6,San Francisco,San Francisco
+03/21/2018,0.4,ppm,5,San Francisco,San Francisco
+03/22/2018,0.3,ppm,3,San Francisco,San Francisco
+03/23/2018,0.4,ppm,5,San Francisco,San Francisco
+03/24/2018,0.3,ppm,3,San Francisco,San Francisco
+03/25/2018,0.4,ppm,5,San Francisco,San Francisco
+03/26/2018,0.5,ppm,6,San Francisco,San Francisco
+03/27/2018,0.5,ppm,6,San Francisco,San Francisco
+03/28/2018,0.5,ppm,6,San Francisco,San Francisco
+03/29/2018,0.7,ppm,8,San Francisco,San Francisco
+03/30/2018,0.7,ppm,8,San Francisco,San Francisco
+03/31/2018,0.4,ppm,5,San Francisco,San Francisco
+04/01/2018,0.4,ppm,5,San Francisco,San Francisco
+04/02/2018,0.4,ppm,5,San Francisco,San Francisco
+04/03/2018,0.4,ppm,5,San Francisco,San Francisco
+04/04/2018,0.4,ppm,5,San Francisco,San Francisco
+04/05/2018,0.4,ppm,5,San Francisco,San Francisco
+04/06/2018,0.4,ppm,5,San Francisco,San Francisco
+04/07/2018,0.4,ppm,5,San Francisco,San Francisco
+04/08/2018,0.4,ppm,5,San Francisco,San Francisco
+04/09/2018,0.6,ppm,7,San Francisco,San Francisco
+04/10/2018,0.3,ppm,3,San Francisco,San Francisco
+04/11/2018,0.4,ppm,5,San Francisco,San Francisco
+04/12/2018,0.3,ppm,3,San Francisco,San Francisco
+04/13/2018,0.3,ppm,3,San Francisco,San Francisco
+04/14/2018,0.5,ppm,6,San Francisco,San Francisco
+04/15/2018,0.3,ppm,3,San Francisco,San Francisco
+04/16/2018,0.4,ppm,5,San Francisco,San Francisco
+04/17/2018,0.4,ppm,5,San Francisco,San Francisco
+04/18/2018,0.5,ppm,6,San Francisco,San Francisco
+04/19/2018,0.4,ppm,5,San Francisco,San Francisco
+04/20/2018,0.4,ppm,5,San Francisco,San Francisco
+04/21/2018,0.4,ppm,5,San Francisco,San Francisco
+04/22/2018,0.4,ppm,5,San Francisco,San Francisco
+04/23/2018,0.5,ppm,6,San Francisco,San Francisco
+04/24/2018,0.4,ppm,5,San Francisco,San Francisco
+04/25/2018,0.4,ppm,5,San Francisco,San Francisco
+04/26/2018,0.4,ppm,5,San Francisco,San Francisco
+04/27/2018,0.4,ppm,5,San Francisco,San Francisco
+04/28/2018,0.3,ppm,3,San Francisco,San Francisco
+04/29/2018,0.3,ppm,3,San Francisco,San Francisco
+04/30/2018,0.4,ppm,5,San Francisco,San Francisco
+05/01/2018,0.4,ppm,5,San Francisco,San Francisco
+05/02/2018,0.3,ppm,3,San Francisco,San Francisco
+05/03/2018,0.2,ppm,2,San Francisco,San Francisco
+05/04/2018,0.2,ppm,2,San Francisco,San Francisco
+05/05/2018,0.2,ppm,2,San Francisco,San Francisco
+05/06/2018,0.2,ppm,2,San Francisco,San Francisco
+05/07/2018,0.3,ppm,3,San Francisco,San Francisco
+05/08/2018,0.2,ppm,2,San Francisco,San Francisco
+05/09/2018,0.2,ppm,2,San Francisco,San Francisco
+05/10/2018,0.4,ppm,5,San Francisco,San Francisco
+05/11/2018,0.3,ppm,3,San Francisco,San Francisco
+05/12/2018,0.3,ppm,3,San Francisco,San Francisco
+05/13/2018,0.2,ppm,2,San Francisco,San Francisco
+05/14/2018,0.3,ppm,3,San Francisco,San Francisco
+05/15/2018,0.2,ppm,2,San Francisco,San Francisco
+05/16/2018,0.3,ppm,3,San Francisco,San Francisco
+05/17/2018,0.2,ppm,2,San Francisco,San Francisco
+05/18/2018,0.2,ppm,2,San Francisco,San Francisco
+05/19/2018,0.2,ppm,2,San Francisco,San Francisco
+05/20/2018,0.2,ppm,2,San Francisco,San Francisco
+05/21/2018,0.4,ppm,5,San Francisco,San Francisco
+05/22/2018,0.3,ppm,3,San Francisco,San Francisco
+05/23/2018,0.3,ppm,3,San Francisco,San Francisco
+05/24/2018,0.3,ppm,3,San Francisco,San Francisco
+05/25/2018,0.3,ppm,3,San Francisco,San Francisco
+05/26/2018,0.2,ppm,2,San Francisco,San Francisco
+05/27/2018,0.3,ppm,3,San Francisco,San Francisco
+05/28/2018,0.3,ppm,3,San Francisco,San Francisco
+05/29/2018,0.3,ppm,3,San Francisco,San Francisco
+05/30/2018,0.3,ppm,3,San Francisco,San Francisco
+05/31/2018,0.3,ppm,3,San Francisco,San Francisco
+06/01/2018,0.3,ppm,3,San Francisco,San Francisco
+06/02/2018,0.4,ppm,5,San Francisco,San Francisco
+06/03/2018,0.2,ppm,2,San Francisco,San Francisco
+06/04/2018,0.3,ppm,3,San Francisco,San Francisco
+06/05/2018,0.2,ppm,2,San Francisco,San Francisco
+06/06/2018,0.3,ppm,3,San Francisco,San Francisco
+06/07/2018,0.3,ppm,3,San Francisco,San Francisco
+06/08/2018,0.3,ppm,3,San Francisco,San Francisco
+06/09/2018,0.3,ppm,3,San Francisco,San Francisco
+06/10/2018,0.3,ppm,3,San Francisco,San Francisco
+06/11/2018,0.3,ppm,3,San Francisco,San Francisco
+06/12/2018,0.4,ppm,5,San Francisco,San Francisco
+06/13/2018,0.3,ppm,3,San Francisco,San Francisco
+06/14/2018,0.2,ppm,2,San Francisco,San Francisco
+06/15/2018,0.2,ppm,2,San Francisco,San Francisco
+06/16/2018,0.2,ppm,2,San Francisco,San Francisco
+06/17/2018,0.2,ppm,2,San Francisco,San Francisco
+06/18/2018,0.2,ppm,2,San Francisco,San Francisco
+06/19/2018,0.2,ppm,2,San Francisco,San Francisco
+06/20/2018,0.3,ppm,3,San Francisco,San Francisco
+06/21/2018,0.2,ppm,2,San Francisco,San Francisco
+06/22/2018,0.3,ppm,3,San Francisco,San Francisco
+06/23/2018,0.4,ppm,5,San Francisco,San Francisco
+06/24/2018,0.2,ppm,2,San Francisco,San Francisco
+06/25/2018,0.2,ppm,2,San Francisco,San Francisco
+06/26/2018,0.2,ppm,2,San Francisco,San Francisco
+06/27/2018,0.3,ppm,3,San Francisco,San Francisco
+06/28/2018,0.3,ppm,3,San Francisco,San Francisco
+06/29/2018,0.3,ppm,3,San Francisco,San Francisco
+06/30/2018,0.4,ppm,5,San Francisco,San Francisco
+07/01/2018,0.2,ppm,2,San Francisco,San Francisco
+07/02/2018,0.2,ppm,2,San Francisco,San Francisco
+07/03/2018,0.2,ppm,2,San Francisco,San Francisco
+07/04/2018,0.2,ppm,2,San Francisco,San Francisco
+07/05/2018,0.2,ppm,2,San Francisco,San Francisco
+07/06/2018,0.4,ppm,5,San Francisco,San Francisco
+07/07/2018,0.2,ppm,2,San Francisco,San Francisco
+07/08/2018,0.2,ppm,2,San Francisco,San Francisco
+07/09/2018,0.2,ppm,2,San Francisco,San Francisco
+07/10/2018,0.2,ppm,2,San Francisco,San Francisco
+07/11/2018,0.2,ppm,2,San Francisco,San Francisco
+07/12/2018,0.2,ppm,2,San Francisco,San Francisco
+07/13/2018,0.2,ppm,2,San Francisco,San Francisco
+07/14/2018,0.2,ppm,2,San Francisco,San Francisco
+07/15/2018,0.2,ppm,2,San Francisco,San Francisco
+07/16/2018,0.2,ppm,2,San Francisco,San Francisco
+07/17/2018,0.2,ppm,2,San Francisco,San Francisco
+07/18/2018,0.2,ppm,2,San Francisco,San Francisco
+07/19/2018,0.1,ppm,1,San Francisco,San Francisco
+07/20/2018,0.1,ppm,1,San Francisco,San Francisco
+07/21/2018,0.0,ppm,0,San Francisco,San Francisco
+07/22/2018,0.0,ppm,0,San Francisco,San Francisco
+07/23/2018,0.0,ppm,0,San Francisco,San Francisco
+07/24/2018,0.1,ppm,1,San Francisco,San Francisco
+07/25/2018,0.1,ppm,1,San Francisco,San Francisco
+07/26/2018,0.1,ppm,1,San Francisco,San Francisco
+07/27/2018,0.0,ppm,0,San Francisco,San Francisco
+07/28/2018,0.0,ppm,0,San Francisco,San Francisco
+07/29/2018,0.1,ppm,1,San Francisco,San Francisco
+07/30/2018,0.1,ppm,1,San Francisco,San Francisco
+07/31/2018,0.1,ppm,1,San Francisco,San Francisco
+08/01/2018,0.2,ppm,2,San Francisco,San Francisco
+08/02/2018,0.2,ppm,2,San Francisco,San Francisco
+08/03/2018,0.2,ppm,2,San Francisco,San Francisco
+08/04/2018,0.2,ppm,2,San Francisco,San Francisco
+08/05/2018,0.1,ppm,1,San Francisco,San Francisco
+08/06/2018,0.3,ppm,3,San Francisco,San Francisco
+08/07/2018,0.2,ppm,2,San Francisco,San Francisco
+08/08/2018,0.3,ppm,3,San Francisco,San Francisco
+08/09/2018,0.3,ppm,3,San Francisco,San Francisco
+08/10/2018,0.3,ppm,3,San Francisco,San Francisco
+08/11/2018,0.2,ppm,2,San Francisco,San Francisco
+08/12/2018,0.2,ppm,2,San Francisco,San Francisco
+08/13/2018,0.3,ppm,3,San Francisco,San Francisco
+08/14/2018,0.3,ppm,3,San Francisco,San Francisco
+08/15/2018,0.4,ppm,5,San Francisco,San Francisco
+08/16/2018,0.4,ppm,5,San Francisco,San Francisco
+08/17/2018,0.4,ppm,5,San Francisco,San Francisco
+08/18/2018,0.4,ppm,5,San Francisco,San Francisco
+08/19/2018,0.4,ppm,5,San Francisco,San Francisco
+08/20/2018,0.4,ppm,5,San Francisco,San Francisco
+08/21/2018,0.5,ppm,6,San Francisco,San Francisco
+08/22/2018,0.5,ppm,6,San Francisco,San Francisco
+08/23/2018,0.7,ppm,8,San Francisco,San Francisco
+08/24/2018,0.6,ppm,7,San Francisco,San Francisco
+08/25/2018,0.4,ppm,5,San Francisco,San Francisco
+08/26/2018,0.3,ppm,3,San Francisco,San Francisco
+08/27/2018,0.3,ppm,3,San Francisco,San Francisco
+08/28/2018,0.3,ppm,3,San Francisco,San Francisco
+08/29/2018,0.4,ppm,5,San Francisco,San Francisco
+08/30/2018,0.3,ppm,3,San Francisco,San Francisco
+08/31/2018,0.3,ppm,3,San Francisco,San Francisco
+09/01/2018,0.2,ppm,2,San Francisco,San Francisco
+09/02/2018,0.3,ppm,3,San Francisco,San Francisco
+09/03/2018,0.3,ppm,3,San Francisco,San Francisco
+09/04/2018,0.3,ppm,3,San Francisco,San Francisco
+09/05/2018,0.3,ppm,3,San Francisco,San Francisco
+09/06/2018,0.3,ppm,3,San Francisco,San Francisco
+09/07/2018,0.3,ppm,3,San Francisco,San Francisco
+09/08/2018,0.2,ppm,2,San Francisco,San Francisco
+09/09/2018,0.3,ppm,3,San Francisco,San Francisco
+09/10/2018,0.3,ppm,3,San Francisco,San Francisco
+09/11/2018,0.3,ppm,3,San Francisco,San Francisco
+09/12/2018,0.2,ppm,2,San Francisco,San Francisco
+09/13/2018,0.3,ppm,3,San Francisco,San Francisco
+09/14/2018,0.2,ppm,2,San Francisco,San Francisco
+09/15/2018,0.2,ppm,2,San Francisco,San Francisco
+09/16/2018,0.2,ppm,2,San Francisco,San Francisco
+09/17/2018,0.2,ppm,2,San Francisco,San Francisco
+09/18/2018,0.2,ppm,2,San Francisco,San Francisco
+09/19/2018,0.3,ppm,3,San Francisco,San Francisco
+09/20/2018,0.5,ppm,6,San Francisco,San Francisco
+09/21/2018,0.6,ppm,7,San Francisco,San Francisco
+09/22/2018,0.3,ppm,3,San Francisco,San Francisco
+09/23/2018,0.2,ppm,2,San Francisco,San Francisco
+09/24/2018,0.5,ppm,6,San Francisco,San Francisco
+09/25/2018,0.3,ppm,3,San Francisco,San Francisco
+09/26/2018,0.4,ppm,5,San Francisco,San Francisco
+09/27/2018,0.3,ppm,3,San Francisco,San Francisco
+09/28/2018,0.2,ppm,2,San Francisco,San Francisco
+09/29/2018,0.2,ppm,2,San Francisco,San Francisco
+09/30/2018,0.2,ppm,2,San Francisco,San Francisco
+10/01/2018,0.3,ppm,3,San Francisco,San Francisco
+10/02/2018,0.3,ppm,3,San Francisco,San Francisco
+10/03/2018,0.3,ppm,3,San Francisco,San Francisco
+10/04/2018,0.3,ppm,3,San Francisco,San Francisco
+10/05/2018,0.3,ppm,3,San Francisco,San Francisco
+10/06/2018,0.4,ppm,5,San Francisco,San Francisco
+10/07/2018,0.4,ppm,5,San Francisco,San Francisco
+10/08/2018,0.4,ppm,5,San Francisco,San Francisco
+10/09/2018,0.3,ppm,3,San Francisco,San Francisco
+10/10/2018,0.4,ppm,5,San Francisco,San Francisco
+10/11/2018,0.4,ppm,5,San Francisco,San Francisco
+10/12/2018,0.4,ppm,5,San Francisco,San Francisco
+10/13/2018,0.5,ppm,6,San Francisco,San Francisco
+10/14/2018,0.4,ppm,5,San Francisco,San Francisco
+10/15/2018,0.4,ppm,5,San Francisco,San Francisco
+10/16/2018,0.6,ppm,7,San Francisco,San Francisco
+10/17/2018,0.5,ppm,6,San Francisco,San Francisco
+10/18/2018,0.4,ppm,5,San Francisco,San Francisco
+10/19/2018,0.7,ppm,8,San Francisco,San Francisco
+10/20/2018,0.5,ppm,6,San Francisco,San Francisco
+10/21/2018,0.4,ppm,5,San Francisco,San Francisco
+10/22/2018,0.4,ppm,5,San Francisco,San Francisco
+10/23/2018,0.2,ppm,2,San Francisco,San Francisco
+10/24/2018,0.4,ppm,5,San Francisco,San Francisco
+10/25/2018,0.3,ppm,3,San Francisco,San Francisco
+10/26/2018,0.3,ppm,3,San Francisco,San Francisco
+10/27/2018,0.3,ppm,3,San Francisco,San Francisco
+10/28/2018,0.2,ppm,2,San Francisco,San Francisco
+10/29/2018,0.4,ppm,5,San Francisco,San Francisco
+10/30/2018,0.5,ppm,6,San Francisco,San Francisco
+10/31/2018,0.7,ppm,8,San Francisco,San Francisco
+11/01/2018,0.8,ppm,9,San Francisco,San Francisco
+11/02/2018,0.6,ppm,7,San Francisco,San Francisco
+11/03/2018,0.7,ppm,8,San Francisco,San Francisco
+11/04/2018,0.6,ppm,7,San Francisco,San Francisco
+11/05/2018,0.5,ppm,6,San Francisco,San Francisco
+11/06/2018,0.7,ppm,8,San Francisco,San Francisco
+11/07/2018,0.7,ppm,8,San Francisco,San Francisco
+11/08/2018,0.9,ppm,10,San Francisco,San Francisco
+11/09/2018,1.1,ppm,13,San Francisco,San Francisco
+11/10/2018,1.3,ppm,15,San Francisco,San Francisco
+11/11/2018,1.4,ppm,16,San Francisco,San Francisco
+11/12/2018,1.2,ppm,14,San Francisco,San Francisco
+11/13/2018,1.2,ppm,14,San Francisco,San Francisco
+11/14/2018,1.4,ppm,16,San Francisco,San Francisco
+11/15/2018,1.5,ppm,17,San Francisco,San Francisco
+11/16/2018,1.6,ppm,18,San Francisco,San Francisco
+11/17/2018,1.5,ppm,17,San Francisco,San Francisco
+11/18/2018,0.8,ppm,9,San Francisco,San Francisco
+11/19/2018,1.4,ppm,16,San Francisco,San Francisco
+11/20/2018,1.4,ppm,16,San Francisco,San Francisco
+11/21/2018,0.9,ppm,10,San Francisco,San Francisco
+11/22/2018,0.3,ppm,3,San Francisco,San Francisco
+11/23/2018,0.3,ppm,3,San Francisco,San Francisco
+11/24/2018,0.6,ppm,7,San Francisco,San Francisco
+11/25/2018,0.7,ppm,8,San Francisco,San Francisco
+11/26/2018,0.6,ppm,7,San Francisco,San Francisco
+11/27/2018,0.6,ppm,7,San Francisco,San Francisco
+11/28/2018,0.5,ppm,6,San Francisco,San Francisco
+11/29/2018,0.3,ppm,3,San Francisco,San Francisco
+11/30/2018,0.3,ppm,3,San Francisco,San Francisco
+12/01/2018,0.3,ppm,3,San Francisco,San Francisco
+12/02/2018,0.4,ppm,5,San Francisco,San Francisco
+12/03/2018,0.4,ppm,5,San Francisco,San Francisco
+12/04/2018,0.4,ppm,5,San Francisco,San Francisco
+12/05/2018,0.4,ppm,5,San Francisco,San Francisco
+12/06/2018,0.7,ppm,8,San Francisco,San Francisco
+12/07/2018,0.8,ppm,9,San Francisco,San Francisco
+12/08/2018,0.8,ppm,9,San Francisco,San Francisco
+12/09/2018,0.7,ppm,8,San Francisco,San Francisco
+12/10/2018,0.7,ppm,8,San Francisco,San Francisco
+12/11/2018,0.8,ppm,9,San Francisco,San Francisco
+12/12/2018,0.7,ppm,8,San Francisco,San Francisco
+12/13/2018,0.7,ppm,8,San Francisco,San Francisco
+12/14/2018,0.6,ppm,7,San Francisco,San Francisco
+12/15/2018,0.6,ppm,7,San Francisco,San Francisco
+12/16/2018,0.6,ppm,7,San Francisco,San Francisco
+12/17/2018,0.5,ppm,6,San Francisco,San Francisco
+12/18/2018,0.7,ppm,8,San Francisco,San Francisco
+12/19/2018,0.7,ppm,8,San Francisco,San Francisco
+12/20/2018,0.6,ppm,7,San Francisco,San Francisco
+12/21/2018,0.7,ppm,8,San Francisco,San Francisco
+12/22/2018,0.6,ppm,7,San Francisco,San Francisco
+12/23/2018,0.6,ppm,7,San Francisco,San Francisco
+12/24/2018,0.6,ppm,7,San Francisco,San Francisco
+12/25/2018,0.4,ppm,5,San Francisco,San Francisco
+12/26/2018,0.5,ppm,6,San Francisco,San Francisco
+12/27/2018,0.4,ppm,5,San Francisco,San Francisco
+12/28/2018,0.8,ppm,9,San Francisco,San Francisco
+12/29/2018,0.9,ppm,10,San Francisco,San Francisco
+12/30/2018,0.6,ppm,7,San Francisco,San Francisco
+12/31/2018,0.5,ppm,6,San Francisco,San Francisco
