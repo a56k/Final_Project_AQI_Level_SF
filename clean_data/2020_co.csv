@@ -1,4 +1,4 @@
-Date,Daily_Max_8-hour_CO_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
+Date,Daily_Max_8-hr_CO_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
 01/01/2020,0.6,ppm,7,San Francisco
 01/02/2020,0.7,ppm,8,San Francisco
 01/03/2020,0.6,ppm,7,San Francisco
