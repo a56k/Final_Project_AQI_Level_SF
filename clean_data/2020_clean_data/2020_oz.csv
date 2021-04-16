@@ -1,4 +1,4 @@
-Date,Daily_Max_8-hour_Ozone_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
+Date,Daily_Max_8-hr_Ozone_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
 01/01/2020,0.029,ppm,27,San Francisco
 01/02/2020,0.015,ppm,14,San Francisco
 01/03/2020,0.023,ppm,21,San Francisco
