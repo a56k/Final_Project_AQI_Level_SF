@@ -1,4 +1,4 @@
-Date,Daily_Max_1-hour_NO2_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
+Date,Daily_Max_1-hr_NO2_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
 01/01/2020,23.6,ppb,22,San Francisco
 01/02/2020,35.5,ppb,33,San Francisco
 01/03/2020,36.6,ppb,34,San Francisco
