@@ -1,4 +1,4 @@
-Date,Daily_Max_8-hr_Ozone_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
+Date,Daily_Max_8-hr_CO_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
 01/01/2018,0.7,ppm,8,San Francisco
 01/02/2018,0.8,ppm,9,San Francisco
 01/03/2018,0.9,ppm,10,San Francisco
