@@ -1,4 +1,4 @@
-Date,Daily_Max_1-hr_NO2_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
+Date,Daily_Max_1-hr_NO2_Concentration,UNITS,AQI_NO2,Site_Name
 01/01/2015,39.1,ppb,37,San Francisco
 01/02/2015,45.3,ppb,42,San Francisco
 01/03/2015,48.5,ppb,45,San Francisco

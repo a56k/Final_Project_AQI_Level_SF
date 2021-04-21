@@ -1,4 +1,4 @@
-Date,Daily_Mean_PM2.5_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
+Date,Daily_Mean_PM2.5_Concentration,UNITS,AQI_PM_2_5,Site_Name
 01/01/2015,13.9,ug/m3 LC,55,San Francisco
 01/02/2015,22.6,ug/m3 LC,73,San Francisco
 01/03/2015,27.9,ug/m3 LC,84,San Francisco
