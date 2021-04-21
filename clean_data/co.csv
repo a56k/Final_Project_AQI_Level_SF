@@ -1,4 +1,4 @@
-Date,Daily_Max_8-hr_CO_Concentration,UNITS,DAILY_AQI_VALUE,Site_Name
+Date,Daily_Max_8-hr_CO_Concentration,UNITS,AQI_CO,Site_Name
 01/01/2015,0.6,ppm,7,San Francisco
 01/02/2015,0.7,ppm,8,San Francisco
 01/03/2015,0.9,ppm,10,San Francisco
