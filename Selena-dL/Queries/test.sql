@@ -7,8 +7,15 @@ CREATE TABLE CO (
 	 UNITS VARCHAR (100) NOT NULL,
 	 AQI_CO INT NOT NULL,
 	 Site_Name VARCHAR (100) NOT NULL,
-	 PRIMARY KEY ("Date", AQI_CO)
+	 PRIMARY KEY ("Date")
 );
+
+-- Fixing missing dates
+INSERT INTO CO ( "Date", Daily_Max_8_hr_CO_Concentration, UNITS, AQI_CO, Site_Name)
+VALUES ('2015-03-01', '0', 'ppm', '0', 'San Francisco');
+
+-- -- Fixing the order for inserted date
+-- ORDER BY co."Date";
 
 -- Create table for NO2 2015-2020
 CREATE TABLE NO2 (
@@ -17,8 +24,8 @@ CREATE TABLE NO2 (
 	 UNITS VARCHAR (100) NOT NULL,
 	 AQI_NO2 INT NOT NULL,
 	 Site_Name VARCHAR (100) NOT NULL,
+	 FOREIGN KEY ("Date") REFERENCES co ("Date"),
 	 PRIMARY KEY ("Date", AQI_NO2)
-     FOREIGN KEY ("Date")
 );
 
 -- Create table for O3 2015-2020
@@ -28,8 +35,8 @@ CREATE TABLE O3 (
 	 UNITS VARCHAR (100) NOT NULL,
 	 AQI_O3 INT NOT NULL,
 	 Site_Name VARCHAR (100) NOT NULL,
-	 PRIMARY KEY ("Date", AQI_O3)
-     FOREIGN KEY ("Date")
+     FOREIGN KEY ("Date") REFERENCES co ("Date"),
+     PRIMARY KEY ("Date", AQI_O3)
 );
 
 -- Create table for PM_10 2015-2020
@@ -39,8 +46,8 @@ CREATE TABLE PM_10 (
 	 UNITS VARCHAR (100) NOT NULL,
 	 AQI_PM_10 INT NOT NULL,
 	 Site_Name VARCHAR (100) NOT NULL,
-	 PRIMARY KEY ("Date", AQI_PM_10)
-     FOREIGN KEY ("Date")
+	 FOREIGN KEY ("Date") REFERENCES co ("Date"),
+     PRIMARY KEY ("Date", AQI_PM_10)
 );
 
 -- Create table for PM_2.5 2015-2020
@@ -50,8 +57,8 @@ CREATE TABLE PM_2_5 (
 	 UNITS VARCHAR (100) NOT NULL,
 	 AQI_PM_2_5 INT NOT NULL,
 	 Site_Name VARCHAR (100) NOT NULL,
-	 PRIMARY KEY ("Date", AQI_PM_2_5)
-     FOREIGN KEY ("Date")
+	 FOREIGN KEY ("Date") REFERENCES co ("Date"),
+     PRIMARY KEY ("Date", AQI_PM_2_5)
 );
 
 -- View table
