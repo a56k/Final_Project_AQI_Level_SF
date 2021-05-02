@@ -1,0 +1,47 @@
+## Clean data txt file
+
+
+#Importing packages
+import pandas as pd
+import os
+import numpy as np
+
+
+#Loading raw data CSV: 2015 Carbon Monoxide (co)
+file_to_load = ("2015-co-sfbay.csv")
+CO_2015 =pd.read_csv(file_to_load)
+CO_2015.head()
+
+#Checking Columns
+CO_2015.columns
+
+#Checking Null Values
+CO_2015.columns.isnull()
+
+#Dropping Columns
+CO_2015 = CO_2015.drop(columns=['Source','Site ID','POC','DAILY_OBS_COUNT','PERCENT_COMPLETE','AQS_PARAMETER_CODE','AQS_PARAMETER_DESC', 'CBSA_CODE','CBSA_NAME','STATE_CODE','STATE','COUNTY_CODE','SITE_LATITUDE', 'SITE_LONGITUDE'], axis=1)
+
+#Checking Columns after drop
+CO_2015.columns
+
+#Checking DataFrame
+CO_2015.head()
+
+#Renaming Columns
+CO_2015 = CO_2015.rename(columns={"Site Name": "Site_Name"})
+CO_2015 = CO_2015.rename(columns={"Daily Max 8-hour CO Concentration": "Daily_Max_8-hr_CO_Concentration"})
+CO_2015.head()
+
+#Checking Count: 
+CO_2015.count()
+
+#Filtering on Site_Name for: Oakland West (OW) & San Francisco (SF)
+CO_2015 = CO_2015[(CO_2015.Site_Name == "Oakland West") | (CO_2015.Site_Name == "San Francisco")]
+CO_2015.head(600)
+
+#Checking OW & SF Count: 714
+CO_2015.count()
+
+
+## REPEAT lines 10 and on with new names!
+## Pay attention when renaming columns!
