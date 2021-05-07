@@ -38,7 +38,7 @@ The project's repository contains multiple branches, as seen in the attached pic
 
 Definitions
   •	What makes up Air Quality Index (AQI)? 
-    o	Carbon Monoxide (CO) - burning fuels from cars & furnaces
+    o	[Carbon Monoxide (CO)](https://www.epa.gov/co-pollution/basic-information-about-carbon-monoxide-co-outdoor-air-pollution#What%20is%20CO) - burning fuels from cars & furnaces
     o	Sulfur Dioxide (SO2) - burning fossil fuels in industry
     o	Nitrogen Dioxide (NO2) - chemical reaction from burning fuels
     o	Particulate Matter 10 (PM 10) - inhalable dust, d~10 μm from construction, smoke, chemicals by industry
