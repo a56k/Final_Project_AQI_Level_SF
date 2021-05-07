@@ -62,17 +62,19 @@ Definitions
 ### Technology & Tools
 
 Database & Graphs: Languages & Packages
-  •	Python in Jupyter Notebook 
-  o	pandas, matplotlib, plotly, numpy
-  •	PostrgesQL in VS Code and pgAdmin
-  •	SQL Alchemy
-  •	Tableau & Python for plots
+
+  1. Python in Jupyter Notebook 
+  2. pandas, matplotlib, plotly, numpy
+  3. PostrgesQL in VS Code and pgAdmin
+  4. SQL Alchemy
+  5. Tableau & Python for plots
 
 Machine Learning model
-  •	Python 
-  o	matplotlib pyplot, pandas, numpy
-  •	SQL & SQL Alchemy
-•	Logistic regression
+
+  1. Python 
+  2. matplotlib pyplot, pandas, numpy
+  3. SQL & SQL Alchemy
+  4. Logistic regression
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Machine Learning Model
