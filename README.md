@@ -57,10 +57,22 @@ Definitions
    [Ozone (O3)](https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics) - smog from cars, industry, chemicals
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Technology & Tools
 
+Database & Graphs: Languages & Packages
+  •	Python in Jupyter Notebook 
+  o	pandas, matplotlib, plotly, numpy
+  •	PostrgesQL in VS Code and pgAdmin
+  •	SQL Alchemy
+  •	Tableau & Python for plots
 
-
+Machine Learning model
+  •	Python 
+  o	matplotlib pyplot, pandas, numpy
+  •	SQL & SQL Alchemy
+•	Logistic regression
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Machine Learning Model
