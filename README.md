@@ -11,7 +11,7 @@ AQI Level in San Francisco and future impact of a fast re-opening
 
 [Final Presentation - Google Slides](https://docs.google.com/presentation/d/1rGcUy4AIucMLLih3eFqtMdZGiTV2VTy_V_OdEt2b280/edit#slide=id.gd5224e0981_0_231)
 
-[Tableau Dashboard Video Snippet] (https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/2021-05-06%2020.34.28%20Tableau%20Dashboard%2092599881889/zoom_0.mp4)
+[Tableau Dashboard Video Snippet](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/2021-05-06%2020.34.28%20Tableau%20Dashboard%2092599881889/zoom_0.mp4)
 
 
 
