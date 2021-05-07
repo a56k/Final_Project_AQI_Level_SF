@@ -160,9 +160,13 @@ Exploratory Analysis
 Ultimately, the list below best summarizes our solution to the project. 
 
 •	Visualized AQI data in SF from 2015-2020 w/ emphasis on COVID-19 crisis (2020)
+
 •	Created Dataframe to extract AQI Max values
+
 •	Performed Time Series, Exploratory, & Statistical analyses on data
+
 •	Ran ML model to predict safe/unsafe levels of AQI
+
 •	Results suggest we should reconsider process of returning to industry due to risks of raising AQI levels above “safe” threshold
 
 Thus, if companies and economies aren’t consciously prioritizing conscious reopening and the vast population appears to have fewer reservations to care for the environment, 2020 will be known as a wasted opportunity to enact new habits to combat human-made pollution.
