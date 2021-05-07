@@ -36,6 +36,8 @@ The project's repository contains multiple branches, as seen in the attached pic
 
 ![Branches](https://github.com/a56k/ML---Final-Project---Pollution-Future-Impact-Analysis-/blob/main/img/Screen%20Shot%202021-04-09%20at%2010.00.29%20PM.png)
 
+![Commit_count](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%207.58.20%20PM.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Data Sources
 
@@ -103,7 +105,10 @@ Classification metrics like accuracy score, precision and sensitivity are analyz
 Encountered complications ranged from varying sources. Mainly, communicating our intent, identifying our critical questions, and establishing which hypothesis to further invest. These complications led to re-shuffling our strategy to match the data collected and provide an analysis that raised more questions than answers. With that, we have a project that has the potential to incentivize people and companies to think consciously about their approach to re-opening activities. We did not emphasize these recommendations and weren't specific enough to provide an actionable plan based on our research.  
 
 Data:
+
 Because we could easily expand our scope, transforming and cleaning the data to match our key questions became crucial. Thankfully, the team merged the essential data collected from 2015 to 2020 to drive the analysis. One aspect that is prone to error in the research is how much data we eliminated from the csv. To maintain uniformity and keep the scope to San Francisco, we chose to discard different measuring sites that would have allowed us to further expand our research and include more datapoints. Additionally, eliminating data restricted our ability to forecast future trends based on the resampling techniques applied to our time series analysis & ML model.
+
+![QuickDBD - Project DataBase Map](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/Selena-dL/Project_Database/QuickDBD-export.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -124,6 +129,9 @@ Exploratory Analysis
 1.	[Time Series](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/sf_aqi_forecast_v1.ipynb) (SARIMA) to capture trends and seasonality of the AQI Level
 2.	[Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb): to predict our accuracy on the measuring target “Safe” & “Unsafe”
 3.	Plenty of room for future Analysis, shall we have enough data
+
+
+![AQIMAX forecast](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-03%20at%208.23.56%20PM.png)
 
 
 Ultimately, the list below best summarizes our solution to the project. 
