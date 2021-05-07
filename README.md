@@ -3,6 +3,13 @@
 AQI Level in San Francisco and future impact of a fast re-opening
 
 
+[Posgres_SQL Connection](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/AmirO/Final_Project_CSVs/Postgres_SQL/Postgres%20Connection.ipynb)
+
+[Time Series](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/sf_aqi_forecast_v1.ipynb) 
+
+[Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb)
+
+[Final Presentation - Google Slides](https://docs.google.com/presentation/d/1rGcUy4AIucMLLih3eFqtMdZGiTV2VTy_V_OdEt2b280/edit#slide=id.gd5224e0981_0_231)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Purpose 
@@ -30,6 +37,51 @@ The project's repository contains multiple branches, as seen in the attached pic
 ![Branches](https://github.com/a56k/ML---Final-Project---Pollution-Future-Impact-Analysis-/blob/main/img/Screen%20Shot%202021-04-09%20at%2010.00.29%20PM.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Data Sources
+
+  •	[US EPA: United States Environmental Protection Agency](https://www.epa.gov/)
+  
+  Other Sources
+  [AirNow.gov](https://www.airnow.gov/)
+  [CalFire](https://www.fire.ca.gov/) 
+  [CalDeptPublicHealth](https://www.cdph.ca.gov/)
+
+Definitions
+  •	What makes up Air Quality Index (AQI)? 
+  
+   [Carbon Monoxide (CO)](https://www.epa.gov/co-pollution/basic-information-about-carbon-monoxide-co-outdoor-air-pollution#What%20is%20CO) - burning fuels from cars & furnaces
+    
+   [Sulfur Dioxide (SO2)](https://www.epa.gov/so2-pollution/sulfur-dioxide-basics#what%20is%20so2) - burning fossil fuels in industry
+    
+   [Nitrogen Dioxide (NO2)](https://www.epa.gov/no2-pollution/basic-information-about-no2#What%20is%20NO2) - chemical reaction from burning fuels
+    
+   [Particulate Matter 10 (PM 10)](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#PM) - inhalable dust, d~10 μm from construction, smoke, chemicals by industry
+    
+   [Particulate Matter 2.5 (PM 2.5)](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#PM) - inhalable dust d~2.5 μm
+    
+   [Ozone (O3)](https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics) - smog from cars, industry, chemicals
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Technology & Tools
+
+Database & Graphs: Languages & Packages
+
+  1. Python in Jupyter Notebook 
+  2. pandas, matplotlib, plotly, numpy
+  3. PostrgesQL in VS Code and pgAdmin
+  4. SQL Alchemy
+  5. Tableau & Python for plots
+
+Machine Learning model
+
+  1. Python 
+  2. matplotlib pyplot, pandas, numpy
+  3. SQL & SQL Alchemy
+  4. Logistic regression
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Machine Learning Model
 
 We are predicting Air Quality Index (AQI) as Safe or Unsafe. (AQI > = 150 is Unsafe)
@@ -69,8 +121,8 @@ Data Transformation
 
 Exploratory Analysis
 
-1.	Time Series (SARIMA) to capture trends and seasonality of the AQI Level
-2.	Machine learning model to predict our accuracy on the measuring target “Safe” & “Unsafe”
+1.	[Time Series](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/sf_aqi_forecast_v1.ipynb) (SARIMA) to capture trends and seasonality of the AQI Level
+2.	[Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb): to predict our accuracy on the measuring target “Safe” & “Unsafe”
 3.	Plenty of room for future Analysis, shall we have enough data
 
 
@@ -83,9 +135,6 @@ Ultimately, the list below best summarizes our solution to the project.
 •	Results suggest we should reconsider process of returning to industry due to risks of raising AQI levels above “safe” threshold
 
 Thus, if companies and economies aren’t consciously prioritizing conscious reopening and the vast population appears to have fewer reservations to care for the environment, 2020 will be known as a wasted opportunity to enact new habits to combat human-made pollution.
-
-
-
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
