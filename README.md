@@ -30,6 +30,28 @@ The project's repository contains multiple branches, as seen in the attached pic
 ![Branches](https://github.com/a56k/ML---Final-Project---Pollution-Future-Impact-Analysis-/blob/main/img/Screen%20Shot%202021-04-09%20at%2010.00.29%20PM.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Data Sources
+
+  •	US EPA: United States Environmental Protection Agency
+  Other Sources
+  •	AirNow.gov, CalFire, CalDeptPublicHealth
+
+Definitions
+  •	What makes up Air Quality Index (AQI)? 
+    o	Carbon Monoxide (CO) - burning fuels from cars & furnaces
+    o	Sulfur Dioxide (SO2) - burning fossil fuels in industry
+    o	Nitrogen Dioxide (NO2) - chemical reaction from burning fuels
+    o	Particulate Matter 10 (PM 10) - inhalable dust, d~10 μm from construction, smoke, chemicals by industry
+    o	Particulate Matter 2.5 (PM 2.5) - inhalable dust d~2.5 μm
+    Ozone (O3) - smog from cars, industry, chemicals
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Machine Learning Model
 
 We are predicting Air Quality Index (AQI) as Safe or Unsafe. (AQI > = 150 is Unsafe)
