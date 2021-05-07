@@ -2,9 +2,14 @@
 
 AQI Level in San Francisco and future impact of a fast re-opening
 
+
+[Posgres_SQL Connection](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/AmirO/Final_Project_CSVs/Postgres_SQL/Postgres%20Connection.ipynb)
+
+[Time Series](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/sf_aqi_forecast_v1.ipynb) 
+
+[Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb)
+
 [Final Presentation - Google Slides](https://docs.google.com/presentation/d/1rGcUy4AIucMLLih3eFqtMdZGiTV2VTy_V_OdEt2b280/edit#slide=id.gd5224e0981_0_231)
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Purpose 
