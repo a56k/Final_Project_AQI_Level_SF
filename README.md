@@ -7,6 +7,8 @@ AQI Level in San Francisco and future impact of a fast re-opening
 
 [Time Series](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/sf_aqi_forecast_v1.ipynb) 
 
+[Time Series Fully Deployed Code](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/sf_time_based_analysis/sf_aqi_forecast_v1%20copy.ipynb)
+
 [Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb)
 
 [Final Presentation - Google Slides](https://docs.google.com/presentation/d/1rGcUy4AIucMLLih3eFqtMdZGiTV2VTy_V_OdEt2b280/edit#slide=id.gd5224e0981_0_231)
