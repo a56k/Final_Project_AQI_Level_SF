@@ -154,6 +154,10 @@ Thus, if companies and economies aren’t consciously prioritizing conscious reo
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Observations
 
+[Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb)
+
+[Time Series Fully Deployed Code](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/sf_time_based_analysis/sf_aqi_forecast_v1%20copy.ipynb)
+
 Though Air-pollution levels do not depend on human activity alone—we could understand how a decrease in human activities impacted AQI levels without discarding other weather conditions.
 
 As people return to their regular activities (work commute, public transport, outings, etc.) and economies begin to recover, we can observe the air pollution is nearing pre-pandemic levels. We did observe this tendency in our Trend Base Analysis Model used to extract seasonality. We contrasted the trends against loosening restrictions activities driven by San Francisco's local government bodies.
