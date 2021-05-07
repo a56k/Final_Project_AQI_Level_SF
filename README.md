@@ -45,6 +45,13 @@ The project's repository contains multiple branches, as seen in the attached pic
 ![Commit_count](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%207.58.20%20PM.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data Cleaning and Analysis
+We performed an exploratory analysis using Jupyter Notebook and VS Code, prior to loading the raw data in pgAdmin. We used Pandas to clean the data: analyze/drop/rename columns & filter for our desired location(s). We will merge our clean datasets so that each pollutant is mapped over the same year using Python and/or postgresQL.
+
+### Database Storage
+We use the pgAdmin database to store our data.
+
 ### Data Sources
 
   •	[US EPA: United States Environmental Protection Agency](https://www.epa.gov/)
@@ -105,6 +112,15 @@ target = AQI  this variable will be converted to binary = "Safe", "Unsafe"
 
 Classification metrics like accuracy score, precision and sensitivity are analyzed for each target class to asses model performance.
 
+![AQI Level Overview](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%208.57.40%20PM.png)
+
+![Descrptive Statistics](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%208.57.57%20PM.png)
+
+![Model Perfromance Summary](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%208.58.49%20PM.png)
+
+![Model Consolidation Summary](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%208.59.10%20PM.png)
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Complications
@@ -144,9 +160,13 @@ Exploratory Analysis
 Ultimately, the list below best summarizes our solution to the project. 
 
 •	Visualized AQI data in SF from 2015-2020 w/ emphasis on COVID-19 crisis (2020)
+
 •	Created Dataframe to extract AQI Max values
+
 •	Performed Time Series, Exploratory, & Statistical analyses on data
+
 •	Ran ML model to predict safe/unsafe levels of AQI
+
 •	Results suggest we should reconsider process of returning to industry due to risks of raising AQI levels above “safe” threshold
 
 Thus, if companies and economies aren’t consciously prioritizing conscious reopening and the vast population appears to have fewer reservations to care for the environment, 2020 will be known as a wasted opportunity to enact new habits to combat human-made pollution.
@@ -166,11 +186,17 @@ As people return to their regular activities (work commute, public transport, ou
 Another observation captured in our analysis involved the "p.m.2.5" pollutant, which was the biggest driver of the AQI Max level. We noticed this detail in our exploratory data analysis section, highlighted that these similarities caused our ML model to overfit. 
 
 Machine Learning:
+
 •	Combining the Exploratory Data Analysis and Machine Learning Model provided us the following results:
+
 •	AQI Max levels decreased in SF during complete lockdown (March 2020 - August 2020)  
+
 •	AQI pm 2.5 is the primary driver of AQI Max    
+
 •	Approximately 25% of AQI Max data from 2015 - 2020 sits on the unsafe level
+
 •	Cluster Centroids undersample + Logistic regression gives us an accuracy score of 95%
+
 •	The model performs best to predict SAFE levels of AQI Max
 
 
