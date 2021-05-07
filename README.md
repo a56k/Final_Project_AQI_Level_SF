@@ -92,8 +92,9 @@ Machine Learning model
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Machine Learning Model
 
-We are predicting Air Quality Index (AQI) as Safe or Unsafe. (AQI > = 150 is Unsafe)
+[Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb)
 
+We are predicting Air Quality Index (AQI) as Safe or Unsafe. (AQI > = 150 is Unsafe)
 
 
 For this classification problem we will compare **Ensemble* and **Resampling** techniques using Python sklearn library.  We will create a logistic regression, Random Forest, and Ada Boost classifier models, chose the best performer, and provide recommendations to future model improvements. In all escenarios, we will be fitting the training data, and making a prediction.
@@ -153,6 +154,10 @@ Thus, if companies and economies aren’t consciously prioritizing conscious reo
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Observations
+
+[Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb)
+
+[Time Series Fully Deployed Code](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/sf_time_based_analysis/sf_aqi_forecast_v1%20copy.ipynb)
 
 Though Air-pollution levels do not depend on human activity alone—we could understand how a decrease in human activities impacted AQI levels without discarding other weather conditions.
 
