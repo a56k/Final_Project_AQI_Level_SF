@@ -92,8 +92,9 @@ Machine Learning model
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Machine Learning Model
 
-We are predicting Air Quality Index (AQI) as Safe or Unsafe. (AQI > = 150 is Unsafe)
+[Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb)
 
+We are predicting Air Quality Index (AQI) as Safe or Unsafe. (AQI > = 150 is Unsafe)
 
 
 For this classification problem we will compare **Ensemble* and **Resampling** techniques using Python sklearn library.  We will create a logistic regression, Random Forest, and Ada Boost classifier models, chose the best performer, and provide recommendations to future model improvements. In all escenarios, we will be fitting the training data, and making a prediction.
