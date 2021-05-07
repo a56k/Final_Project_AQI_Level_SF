@@ -100,8 +100,8 @@ Data Transformation
 
 Exploratory Analysis
 
-1.	Time Series (SARIMA) to capture trends and seasonality of the AQI Level
-2.	Machine learning model to predict our accuracy on the measuring target “Safe” & “Unsafe”
+1.	[Time Series](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/sf_aqi_forecast_v1.ipynb) (SARIMA) to capture trends and seasonality of the AQI Level
+2.	[Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb): to predict our accuracy on the measuring target “Safe” & “Unsafe”
 3.	Plenty of room for future Analysis, shall we have enough data
 
 
