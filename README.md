@@ -186,11 +186,17 @@ As people return to their regular activities (work commute, public transport, ou
 Another observation captured in our analysis involved the "p.m.2.5" pollutant, which was the biggest driver of the AQI Max level. We noticed this detail in our exploratory data analysis section, highlighted that these similarities caused our ML model to overfit. 
 
 Machine Learning:
+
 •	Combining the Exploratory Data Analysis and Machine Learning Model provided us the following results:
+
 •	AQI Max levels decreased in SF during complete lockdown (March 2020 - August 2020)  
+
 •	AQI pm 2.5 is the primary driver of AQI Max    
+
 •	Approximately 25% of AQI Max data from 2015 - 2020 sits on the unsafe level
+
 •	Cluster Centroids undersample + Logistic regression gives us an accuracy score of 95%
+
 •	The model performs best to predict SAFE levels of AQI Max
 
 
