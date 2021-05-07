@@ -1,6 +1,7 @@
 ### Final Project Overview
 
 AQI Level in San Francisco and future impact of a fast re-opening
+[Final Presentation - Google Slides](https://docs.google.com/presentation/d/1rGcUy4AIucMLLih3eFqtMdZGiTV2VTy_V_OdEt2b280/edit#slide=id.gd5224e0981_0_231)
 
 
 
