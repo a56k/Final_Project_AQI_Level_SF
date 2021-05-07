@@ -45,6 +45,13 @@ The project's repository contains multiple branches, as seen in the attached pic
 ![Commit_count](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%207.58.20%20PM.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data Cleaning and Analysis
+We performed an exploratory analysis using Jupyter Notebook and VS Code, prior to loading the raw data in pgAdmin. We used Pandas to clean the data: analyze/drop/rename columns & filter for our desired location(s). We will merge our clean datasets so that each pollutant is mapped over the same year using Python and/or postgresQL.
+
+### Database Storage
+We use the pgAdmin database to store our data.
+
 ### Data Sources
 
   •	[US EPA: United States Environmental Protection Agency](https://www.epa.gov/)
