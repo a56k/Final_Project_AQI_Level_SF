@@ -36,6 +36,8 @@ The project's repository contains multiple branches, as seen in the attached pic
 
 ![Branches](https://github.com/a56k/ML---Final-Project---Pollution-Future-Impact-Analysis-/blob/main/img/Screen%20Shot%202021-04-09%20at%2010.00.29%20PM.png)
 
+![Commit_count](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%207.58.20%20PM.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Data Sources
 
@@ -124,6 +126,9 @@ Exploratory Analysis
 1.	[Time Series](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/sf_aqi_forecast_v1.ipynb) (SARIMA) to capture trends and seasonality of the AQI Level
 2.	[Machine learning model](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/NataliaV/ML_Model/MLModel.ipynb): to predict our accuracy on the measuring target “Safe” & “Unsafe”
 3.	Plenty of room for future Analysis, shall we have enough data
+
+
+![AQIMAX forecast](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-03%20at%208.23.56%20PM.png)
 
 
 Ultimately, the list below best summarizes our solution to the project. 
