@@ -32,18 +32,27 @@ The project's repository contains multiple branches, as seen in the attached pic
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Data Sources
 
-  •	US EPA: United States Environmental Protection Agency
+  •	[US EPA: United States Environmental Protection Agency](https://www.epa.gov/)
+  
   Other Sources
-  •	AirNow.gov, CalFire, CalDeptPublicHealth
+  [AirNow.gov](https://www.airnow.gov/)
+  [CalFire](https://www.fire.ca.gov/) 
+  [CalDeptPublicHealth](https://www.cdph.ca.gov/)
 
 Definitions
   •	What makes up Air Quality Index (AQI)? 
+  
     o	[Carbon Monoxide (CO)](https://www.epa.gov/co-pollution/basic-information-about-carbon-monoxide-co-outdoor-air-pollution#What%20is%20CO) - burning fuels from cars & furnaces
-    o	Sulfur Dioxide (SO2) - burning fossil fuels in industry
-    o	Nitrogen Dioxide (NO2) - chemical reaction from burning fuels
-    o	Particulate Matter 10 (PM 10) - inhalable dust, d~10 μm from construction, smoke, chemicals by industry
-    o	Particulate Matter 2.5 (PM 2.5) - inhalable dust d~2.5 μm
-    Ozone (O3) - smog from cars, industry, chemicals
+    
+    o	[Sulfur Dioxide (SO2)](https://www.epa.gov/so2-pollution/sulfur-dioxide-basics#what%20is%20so2) - burning fossil fuels in industry
+    
+    o	[Nitrogen Dioxide (NO2)](https://www.epa.gov/no2-pollution/basic-information-about-no2#What%20is%20NO2) - chemical reaction from burning fuels
+    
+    o	[Particulate Matter 10 (PM 10)](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#PM) - inhalable dust, d~10 μm from construction, smoke, chemicals by industry
+    
+    o	[Particulate Matter 2.5 (PM 2.5)](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics#PM) - inhalable dust d~2.5 μm
+    
+    [Ozone (O3)](https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics) - smog from cars, industry, chemicals
 
 
 
@@ -105,9 +114,6 @@ Ultimately, the list below best summarizes our solution to the project.
 •	Results suggest we should reconsider process of returning to industry due to risks of raising AQI levels above “safe” threshold
 
 Thus, if companies and economies aren’t consciously prioritizing conscious reopening and the vast population appears to have fewer reservations to care for the environment, 2020 will be known as a wasted opportunity to enact new habits to combat human-made pollution.
-
-
-
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
