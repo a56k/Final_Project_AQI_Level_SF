@@ -112,6 +112,10 @@ target = AQI  this variable will be converted to binary = "Safe", "Unsafe"
 
 Classification metrics like accuracy score, precision and sensitivity are analyzed for each target class to asses model performance.
 
+![AQI Level Overview](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%208.57.40%20PM.png)
+
+![Descrptive Statistics](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%208.57.57%20PM.png)
+
 
 ![Model Consolidation Summary](https://github.com/a56k/Final_Project_AQI_Level_SF/blob/main/img/Screen%20Shot%202021-05-06%20at%208.59.10%20PM.png)
 
